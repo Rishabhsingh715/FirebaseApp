@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "623271720214",
+    "firebase_url": "https://pracroom-7bd6e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pracroom-7bd6e",
+    "storage_bucket": "pracroom-7bd6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623271720214:android:69527e3d932de89330cc37",
+        "android_client_info": {
+          "package_name": "com.cv.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623271720214-o6latp3r0358gfm21fhfh682dhguf4ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8llnbujZfeYUuJxGcsnMB0tF0HXVC6rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623271720214-o6latp3r0358gfm21fhfh682dhguf4ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623271720214:android:239a155107f2f98030cc37",
+        "android_client_info": {
+          "package_name": "com.cv.pracroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623271720214-o6latp3r0358gfm21fhfh682dhguf4ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8llnbujZfeYUuJxGcsnMB0tF0HXVC6rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623271720214-o6latp3r0358gfm21fhfh682dhguf4ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
